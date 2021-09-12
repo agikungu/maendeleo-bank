@@ -1,2 +1,2 @@
 # maendeleo-bank
-A loan application user interface web application  using django (python), and Bootstrap (html,css,js) Frameworks
+A loan application app user interface   using django (python), and Bootstrap (html,css,js) Frameworks
